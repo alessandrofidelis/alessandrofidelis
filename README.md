@@ -4,7 +4,7 @@ Hi there 👋
 + 🤓 developer front end.
 + 🌱 I am looking for an internship or job.
 + 🖥️ Currently studying HTML, CSS, Javascript e Vue aiming to become a Front end Developer.
-+ ✅ I have knowledge in: HTML5, CSS3, Javascript, React.
++ ✅ I have knowledge in: HTML5, CSS3, Javascript e React.
 + 😎 Always looking to learn more every day.
 
 <div>
